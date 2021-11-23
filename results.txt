@@ -1,0 +1,8 @@
+{"01": ["http://chile-hoy.blogspot.com/2009_12_27_archive.html", "http://costintanasescu.com/cauta/?q=Parlament", "http://forexxforexx.com/breakout-trading-strategy-forex.html"]},
+{"02": []},
+{"03": []},
+{"05": []},
+{"08": []},
+{"09": []},
+{"10": []},
+{"11": []},
